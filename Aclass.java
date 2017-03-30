@@ -4,4 +4,8 @@ class Aclass{
 	public Aclass(){
 		
 	}
+	
+	public void setName(String s){
+		this.name = s;
+	}
 }
