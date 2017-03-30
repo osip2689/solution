@@ -1,5 +1,5 @@
 class Aclass{
-	private String name;
+	private String name = "ss";
 	
 	public Aclass(){
 		
